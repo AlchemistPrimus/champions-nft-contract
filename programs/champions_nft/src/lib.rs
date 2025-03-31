@@ -11,7 +11,7 @@ use anchor_spl::{
 };
 use mpl_token_metadata::accounts::{ MasterEdition, Metadata as MetadataAccount };
 
-declare_id!("CFHx9hdqXCViHizdoBctid8wGmJ1w6tizS6ztdNUeMfN");
+declare_id!("2ALE79amyCadezBPx3yvfbwcrv6zuXzBUJxtiH6PKDzC");
 
 #[program]
 pub mod champions_nft {

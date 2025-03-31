@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-champions_nft = "CFHx9hdqXCViHizdoBctid8wGmJ1w6tizS6ztdNUeMfN"
+champions_nft = "2ALE79amyCadezBPx3yvfbwcrv6zuXzBUJxtiH6PKDzC"
 
 [registry]
 url = "https://api.apr.dev"
